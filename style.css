@@ -26,3 +26,9 @@ h1 {
     font-family: 'Libre Baskerville', serif;
     font-size : 2rem;
 }
+
+@media (max-width: 900px) {
+    .poster {
+        width :90%;        
+    }
+}
